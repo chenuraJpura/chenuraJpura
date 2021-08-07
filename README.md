@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chenura Fernando</h1>
-<h3 align="center">A passionate full stack developer & designer from Sri Lanka 🇱🇰</h3>
+<h1 align="left">Hi 👋, I'm Chenura Fernando</h1>
+<h3 align="left">A passionate full stack developer & designer from Sri Lanka 🇱🇰</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chenurajpura&label=Profile%20views&color=0e75b6&style=flat" alt="chenurajpura" /> </p>
 
