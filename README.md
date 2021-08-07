@@ -26,5 +26,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenurajpura&layout=compact&hide=css&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chenurajpura&show_icons=true&locale=en" alt="chenurajpura" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chenurajpura&show_icons=true&locale=en" alt="chenurajpura" />
 
